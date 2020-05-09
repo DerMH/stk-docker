@@ -32,7 +32,7 @@
     <private-server-password value="<PASSWORD>" />
 
     <!-- Message of today shown in lobby, you can enter encoded XML words here or a file.txt and let STK load it. -->
-    <motd value=">WELCOME MESSAGE>" />
+    <motd value="<WELCOME MESSAGE>" />
 
     <!-- If this value is set to false, the server will ignore chat messages from all players. -->
     <chat value="true" />
