@@ -31,7 +31,7 @@ Once the container is up and running, just start SuperTuxKart on your computer a
 
 ## Stop the server
 Here are again two different options, depending on the way you started the server:
-### 1. Server was started with docker-run
+### 1. Server was started with docker run
 Execute `docker container ls` and search for the CONTAINER ID of your container. Then run `docker stop <CONTAINER ID>`. Container will be shut down and server stopped.
 
 ### 2. Server was started with docker-compose
